@@ -19,7 +19,7 @@ npm run build
 http://localhost:8088
 ```
 
-###初始用户名及密码
+### 初始用户名及密码
 用户名: develop test market admin 密码：均为123456(可登陆后修改)
 
 ### 项目结构
