@@ -1,4 +1,4 @@
-# hik-interview
+# node-interview
 
 > A Vue.js project
 
