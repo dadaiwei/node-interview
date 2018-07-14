@@ -3,8 +3,8 @@
 > 基于vue+node+express+mongodb+mongoose的应聘管理系统
 
 ## 前提条件：
-安装mongodb和node
-确保mongo服务开启
+安装mongodb和node<br>
+确保mongo服务开启<br>
 使用mongod --config "D:\Mongo\mongo.conf"  --install --serviceName "MongoDB"，此后MongoDB服务开机自启
 
 ## 运行步骤
