@@ -1,6 +1,6 @@
 <template>
 	<div class="login">
-		<p>Hik-Interview</p>
+		<p>Node-Interview</p>
 		<div class="login-box">
 			<div class="head">
 				用户登录

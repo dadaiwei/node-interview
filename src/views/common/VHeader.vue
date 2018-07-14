@@ -1,7 +1,7 @@
 <template>
 	<div class="header">
 		<div class="logo">
-			<span>数据存储人才管理平台</span>
+			<span>XXX公司人才管理平台</span>
 		</div>
 		<div class="login-user">
 				<div class="icon-box">
