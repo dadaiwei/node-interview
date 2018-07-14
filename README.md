@@ -2,12 +2,12 @@
 
 > 基于vue+node+express+mongodb+mongoose的应聘管理系统
 
-##前提条件：
+## 前提条件：
 安装mongodb和node
 确保mongo服务开启
 使用mongod --config "D:\Mongo\mongo.conf"  --install --serviceName "MongoDB"，此后MongoDB服务开机自启
 
-##运行步骤
+## 运行步骤
 ``` bash
 ### 安装依赖包
 npm install
@@ -17,6 +17,7 @@ npm run build
 
 ### 使用系统
 http://localhost:8088
+```
 
 ###初始用户名及密码
 用户名: develop test market admin 密码：均为123456(可登陆后修改)
