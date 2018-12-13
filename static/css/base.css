@@ -1,0 +1,60 @@
+html, body{
+	margin: 0px;
+	padding: 0px;
+  font-family: "microsoft yahei", Helvetica, Arial, sans-serif;
+  min-width: 1280px;
+  color: #2c3e50;
+  background-color: #ECF0F5;
+}
+.icon{
+	font-size: 21px;
+	width: 21px;
+	height: 21px;
+	fill: currentcolor;
+	vertical-align: -0.15em;
+}
+.iconfont{
+	font-size: 22px;
+}
+.icon-button{
+	font-size: 14px;
+}
+.bigicon_i{
+	font-size: 20px;
+}
+input:-webkit-autofill{
+	box-shadow: 0 0 0px 1000px white inset;
+}
+.el-card{
+	border: 1px solid #D1DBE5;
+	border-radius: 4px;
+	background-color: #FFFFFF;
+	overflow: hidden;
+}
+.el-message-box{
+	vertical-align: top!important;
+	margin-top: 150px;
+}
+
+.el-dialog__wrapper{
+	overflow: hidden!important;
+}
+.el-dialog__title{
+	font-size: 14px!important;
+}
+.el-dialog__headerbtn{
+	top: 15px!important;
+}
+.el-dialog__header{
+	background-color: #F6F8F8;
+	height: 20px;
+	line-height: 20px;
+	padding:10px 20px!important;
+	box-sizing: content-box;	
+	font-size: 14px;
+	font-weight: bold;
+}
+.el-table .cell{
+	padding:0px!important;
+	text-align: center;
+}
